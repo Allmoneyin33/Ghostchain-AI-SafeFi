@@ -1,0 +1,2 @@
+// Enable Industrial Memory Buffer for TSLA/NVDA Sentiment
+const memoryBuffer = Buffer.alloc(1024 * 1024 * 512); // 512MB dedicated reasoning cache
