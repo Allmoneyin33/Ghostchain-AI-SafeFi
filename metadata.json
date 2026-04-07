@@ -1,0 +1,5 @@
+{
+  "name": "LiquidAgent: AI Cash Strategist",
+  "description": "An intelligent financial agent that analyzes cash flow, simulates transactions, and provides strategic wealth-building advice using Gemini AI.",
+  "requestFramePermissions": []
+}
