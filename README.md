@@ -18,3 +18,10 @@ View your app in AI Studio: https://ai.studio/apps/b90c941a-c09c-4565-807d-16ebb
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+{
+  "agent_id": "287F-930E",
+  "kraken_account_id": "AA68 N84G HKZF HBSQ"
+  "identity_registry": "ERC-8004",
+  "status": "SOVEREIGN_AUDIT_ENABLED"
+}
+
